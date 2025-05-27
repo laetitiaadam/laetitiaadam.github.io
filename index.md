@@ -3,6 +3,7 @@ layout: splash
 permalink: /
 hidden: true
 header:
+  title: Welcome to my portfolio!
   overlay_image: /assets/images/aboutbw.png
   actions:
     - label: "About"  # Added label to the button
