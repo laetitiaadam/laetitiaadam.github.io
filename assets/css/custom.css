@@ -9,8 +9,8 @@
 /* Feature image styles */
 .feature-row .feature-image {
   position: relative;
-  width: 48%; /* Ensures two features fit side by side */
-  height: 300px; /* Adjust the height */
+  width: 48% !important; /* Ensures two features fit side by side */
+  height: 300px !important; /* Adjust the height */
   overflow: hidden;
 }
 
