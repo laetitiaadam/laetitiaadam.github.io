@@ -1,6 +1,6 @@
 ---
 title: "University Projects"
-layout: categories
+layout: splash
 permalink: /universityprojects/
 author_profile: true
 ---
