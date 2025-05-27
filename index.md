@@ -8,8 +8,7 @@ header:
     - label: "About"  # Added label to the button
       url: "/about/"
 excerpt: >
-  Welcome to my portfolio.<br />
-  I am a master's degree student in Applied Geoinformatics with a passion for city planning and mobility.
+  My name is Laetitia Adam. I am a master's student in Applied Geoinformatics with a passion for city planning and mobility.
 feature_row:
   - image_path: /assets/images/unibw.png
     alt: "University Projects"
