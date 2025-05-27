@@ -1,42 +1,4 @@
-@media (min-width: 37.5em) {
-    .feature__item {
-        width: 48%;
-    }
-}
-
-
-#Abstand Welcome to my portfolio nach oben
-.page__title {
-    margin-top: 220px;
-    line-height: 1;
-}
-
-#Schriftgröße About
-@media (min-width: 37.5em) {
-    .page__hero--overlay .page__title {
-        font-size: 26px;
-    }
-}
-
-#Text im About Foto
-.page__hero--overlay .page__title, .page__hero--overlay .page__meta, .page__hero--overlay .comment__date, .page__hero--overlay .page__lead, .page__hero--overlay .btn {
-    color: #3b5998;
-    text-shadow: 1px 1px 4px #ffffffbd;
-}
-
-#Padding um About Foto
-.page__hero--overlay {
-    padding: 20px;
-}
-
-#About button
-.btn--light-outline {
-    background-color: transparent;
-    color: #3b5998;
-    border: 1.5px solid #3b5998;
-}
-
-#Header Farbe
+/* --- Header styles --- */
 .greedy-nav a {
     display: block;
     margin: 0 1rem;
@@ -44,4 +6,52 @@
     text-decoration: none;
     -webkit-transition: none;
     transition: none;
+}
+
+/* --- Page Title Styles --- */
+.page__title {
+    margin-top: 220px;
+    line-height: 1;
+}
+
+/* --- About Section Styles --- */
+.page__hero--overlay .page__title, 
+.page__hero--overlay .page__meta, 
+.page__hero--overlay .comment__date, 
+.page__hero--overlay .page__lead, 
+.page__hero--overlay .btn {
+    color: #3b5998;
+    text-shadow: 1px 1px 4px #ffffffbd;
+}
+
+/* Padding around About Section */
+.page__hero--overlay {
+    padding: 20px;
+}
+
+/* Button styling for About section */
+.btn--light-outline {
+    background-color: transparent;
+    color: #3b5998;
+    border: 1.5px solid #3b5998;
+}
+
+/* --- Media Queries for Responsive Design --- */
+@media (min-width: 37.5em) {
+    /* Adjust feature item width on larger screens */
+    .feature__item {
+        width: 48%;
+    }
+
+    /* Adjust font size of title in About section */
+    .page__hero--overlay .page__title {
+        font-size: 26px;
+    }
+}
+
+/* --- General Section Styling --- */
+/* Title margin and line-height adjustments */
+.page__title {
+    margin-top: 220px;
+    line-height: 1;
 }
