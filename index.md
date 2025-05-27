@@ -5,7 +5,7 @@ hidden: true
 header:
   overlay_image: /assets/images/aboutbw.png
   actions:
-    - label: "About."  # Added label to the button
+    - label: "About"  # Added label to the button
       url: "/about/"
 excerpt: >
   Welcome to my portfolio.<br />
@@ -13,14 +13,16 @@ excerpt: >
 feature_row:
   - image_path: /assets/images/unibw.png
     alt: "University Projects"
+    title: "University Projects"
     url: "/universityprojects/"
     btn_class: "btn--primary"
-    btn_label: "University Projects"
+    btn_label: "Learn more"
   - image_path: /assets/images/workbw.png
     alt: "Work Projects"
+    title: "Work Projects"
     url: "/workprojects/"
     btn_class: "btn--primary"
-    btn_label: "Work Projects"
+    btn_label: "Learn more"
        
 ---
 
