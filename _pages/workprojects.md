@@ -1,7 +1,7 @@
 ---
 title: "Work Projects"
 permalink: /workprojects/
-layout: posts
+layout: splash
 author_profile: true
 ---
 
