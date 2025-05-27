@@ -4,7 +4,44 @@
     }
 }
 
-.page__hero--overlay .page__lead {
-    max-width: 768px;
-    margin-top: 110px;
+
+#Abstand Welcome to my portfolio nach oben
+.page__title {
+    margin-top: 220px;
+    line-height: 1;
+}
+
+#Schriftgröße About
+@media (min-width: 37.5em) {
+    .page__hero--overlay .page__title {
+        font-size: 26px;
+    }
+}
+
+#Text im About Foto
+.page__hero--overlay .page__title, .page__hero--overlay .page__meta, .page__hero--overlay .comment__date, .page__hero--overlay .page__lead, .page__hero--overlay .btn {
+    color: #3b5998;
+    text-shadow: 1px 1px 4px #ffffffbd;
+}
+
+#Padding um About Foto
+.page__hero--overlay {
+    padding: 20px;
+}
+
+#About button
+.btn--light-outline {
+    background-color: transparent;
+    color: #3b5998;
+    border: 1.5px solid #3b5998;
+}
+
+#Header Farbe
+.greedy-nav a {
+    display: block;
+    margin: 0 1rem;
+    color: #3b5998;
+    text-decoration: none;
+    -webkit-transition: none;
+    transition: none;
 }
