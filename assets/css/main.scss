@@ -5,9 +5,11 @@ search: false
 
 @charset "utf-8";
 
+@import "minimal-mistakes/variables";  // Correct path based on your folder structure
+
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
 
 @import "minimal-mistakes/sidebar";  // Correct path based on your folder structure
 @import "minimal-mistakes/navigation";  // Correct path based on your folder structure
-@import "minimal-mistakes/variables";  // Correct path based on your folder structure
+
