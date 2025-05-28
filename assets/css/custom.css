@@ -12,6 +12,7 @@
 .page__title {
     margin-top: 220px;
     line-height: 1;
+    color: #3b5998;
 }
 
 /* --- About Section Styles --- */
@@ -49,9 +50,4 @@
     }
 }
 
-/* --- General Section Styling --- */
-/* Title margin and line-height adjustments */
-.page__title {
-    margin-top: 220px;
-    line-height: 1;
-}
+
