@@ -8,14 +8,20 @@
     transition: none;
 }
 
-/* --- Page Title Styles --- */
+/* ---Landing Page Title Styles --- */
 .page__title {
     margin-top: 220px;
     line-height: 1;
     color: #3b5998;
 }
 
-/* --- About Section Styles --- */
+/* --- About Page Title Styles --- */
+.page__title a {
+  color: #3b5998; /* Blue color */
+  text-decoration: none; /* Keeps the link without underline */
+}
+
+/* --- About Section Styles on Landing Page --- */
 .page__hero--overlay .page__title, 
 .page__hero--overlay .page__meta, 
 .page__hero--overlay .comment__date, 
@@ -25,26 +31,26 @@
     text-shadow: 1px 1px 4px #ffffffbd;
 }
 
-/* Padding around About Section */
+/* Padding around About Section on Landing Page */
 .page__hero--overlay {
     padding: 20px;
 }
 
-/* Button styling for About section */
+/* Button styling for About section on Landing Page*/
 .btn--light-outline {
     background-color: transparent;
     color: #3b5998;
     border: 1.5px solid #3b5998;
 }
 
-/* --- Media Queries for Responsive Design --- */
+/* --- Media Queries for Responsive Design for work and uni fotos--- */
 @media (min-width: 37.5em) {
     /* Adjust feature item width on larger screens */
     .feature__item {
         width: 48%;
     }
 
-    /* Adjust font size of title in About section */
+    /* Adjust font size of title in About section on Landing Page */
     .page__hero--overlay .page__title {
         font-size: 26px;
     }
