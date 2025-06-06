@@ -15,6 +15,10 @@
     color: #3b5998;
 }
 
+.no-title-margin {
+  margin-top: 0 !important;
+}
+
 /* --- About Page Title Styles --- */
 .page__title a {
     margin-top: 0px;
