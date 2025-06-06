@@ -2,7 +2,7 @@
 layout: single
 permalink: /about/
 title: "About"
-show_title: true
+title_margin_top: false
 ---
 
 
