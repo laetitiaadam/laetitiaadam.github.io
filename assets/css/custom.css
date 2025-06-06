@@ -17,8 +17,9 @@
 
 /* --- About Page Title Styles --- */
 .page__title a {
-  color: #3b5998; /* Blue color */
-  text-decoration: none; /* Keeps the link without underline */
+    margin-top: 0px;
+    color: #3b5998; /* Blue color */
+    text-decoration: none; /* Keeps the link without underline */
 }
 
 /* --- About Section Styles on Landing Page --- */
