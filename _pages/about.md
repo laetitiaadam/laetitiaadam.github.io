@@ -1,7 +1,8 @@
 ---
-layout: default
+layout: single
 permalink: /about/
 title: "About"
+show_title: true
 ---
 
 
