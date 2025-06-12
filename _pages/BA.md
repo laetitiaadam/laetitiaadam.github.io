@@ -2,21 +2,14 @@
 layout: single
 title: Mapping Bicycle Equity
 permalink: /bachelorthesis/
+toc: true
+toc_label: "Table of Contents"
+toc_icon: "cog"
 ---
 
 # A GIS-Tool for Analyzing Access to Cycling Infrastructure Across Social Groups
 
 A short summary of my bachelor thesis
-
-# Table of Contents
-- [Abstract](#abstract)
-- [Introduction](#introduction)
-- [Methodology](#methodolgy)
-- [Results and Discussion](#resultsofexampleimplementationanddiscussion)
-- [Conclusion](#conclusion)
-- [References](#references)
- 
----
 
 ## ABSTRACT
 
