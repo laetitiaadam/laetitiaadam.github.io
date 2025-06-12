@@ -1,10 +1,7 @@
 ---
 title: "Mapping Bicycle Equity"
-layout: wide
+layout: single
 permalink: /bachelorthesis/
-toc: true
-toc_label: "Table of Contents"
-toc_icon: "cog"
 ---
 
 # Mapping Bicycle Equity: A GIS-Tool for Analyzing Access to Cycling Infrastructure Across Social Groups
