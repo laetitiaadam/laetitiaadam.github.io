@@ -1,5 +1,4 @@
 ---
-title: "Mapping Bicycle Equity"
 layout: single
 permalink: /bachelorthesis/
 ---
