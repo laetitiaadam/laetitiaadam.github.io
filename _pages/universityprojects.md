@@ -5,11 +5,11 @@ permalink: /universityprojects/
 author_profile: true
 
 feature_row:
-  - image_path: /assets/images/BA_intro.png
+  - image_path: /assets/images/BA_intro.jpg
     alt: "Mapping Bicycle Equity"
     url: "/bachelorthesis/"
     btn_class: "btn--primary"
-    btn_label: "Mapping Bicycle Equity"
+    btn_label: "Learn more"
 
        
 ---
