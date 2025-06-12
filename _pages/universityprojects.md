@@ -6,6 +6,7 @@ author_profile: true
 
 feature_row:
   - image_path: /assets/images/BA_intro.jpg
+    title: "Mapping Bicycle Equity"
     alt: "Mapping Bicycle Equity"
     url: "/bachelorthesis/"
     btn_class: "btn--primary"
