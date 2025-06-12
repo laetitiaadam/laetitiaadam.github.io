@@ -3,7 +3,6 @@ title: "University Projects"
 layout: splash
 permalink: /universityprojects/
 author_profile: true
----
 
 feature_row:
   - image_path: /assets/images/BA_intro.png
