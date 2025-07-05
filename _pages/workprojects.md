@@ -5,7 +5,7 @@ layout: splash
 author_profile: true
 
 feature_row:
-  - image_path: /assets/images/Audioguideoverview.png
+  - image_path: /assets/images/AudioguideOverview.png
     title: "Audioguide Wennigsen"
     alt: "Audioguide Wennigsen"
     url: "/audioguide/"
