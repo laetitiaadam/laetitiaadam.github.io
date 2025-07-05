@@ -3,7 +3,6 @@
 layout: single
 title: Audioguide Wennigsen
 permalink: /audioguide/
-
 ---
 
 # A Selfguided Tour Through Town
