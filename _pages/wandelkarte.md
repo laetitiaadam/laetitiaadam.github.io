@@ -2,6 +2,7 @@
 layout: single
 title: Wandelkarte Weimar
 permalink: /wandelkarte/
+classes: wide
 ---
 
 # Mapping daily necessities supporting a sustainable and eco-friendly lifestyle
