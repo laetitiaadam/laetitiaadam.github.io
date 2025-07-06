@@ -11,8 +11,6 @@ feature_row:
     url: "/audioguide/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
-
-feature_row:
   - image_path: /assets/images/wandelkarte_digital.png
     title: "Wandelkarte Weimar"
     alt: "Wandelkarte Weimar"
