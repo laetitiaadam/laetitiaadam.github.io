@@ -6,11 +6,12 @@ title_margin_top: false
 ---
 
 
-In October 2025, I will begin my **Master’s degree in Applied Geoinformatics** at **University of Salzburg**.
+In October 2025, I began my **Master’s degree in Applied Geoinformatics** at **University of Salzburg**.
 
-Currently, I am working as a **research assistant** at the **Chair for Transport System Planning** at **Bauhaus-University Weimar**. Our research project applies **machine learning methods** to predict and evaluate **urban air quality**.
+From summer 2024 until summer 2025, I have been working as a **research assistant** at the **Chair for Transport System Planning** at **Bauhaus-University Weimar**. Our research project applies **machine learning methods** to predict and evaluate **urban air quality**. Find out <a href="https://laetitiaadam.github.io/researchassistant/">more.</a>
 
-Previously, I graduated with a **B.Sc. in Urban Studies** from Bauhaus-University Weimar. My thesis focused on **transport justice** and the **accessibility of cycling infrastructure**. I developed a GIS tool to calculate the share of cycling infrastructure on everyday journeys. The outcome is a **bicycle-equity index** for each place of living which can identify whether specific neighbourhoods or social groups benefit more than others from existing cycling infrastructure. 
+
+Previously, I graduated with a **B.Sc. in Urban Studies** from Bauhaus-University Weimar. My thesis focused on **transport justice** and the **accessibility of cycling infrastructure**. I developed a GIS tool to calculate the share of cycling infrastructure on everyday journeys. The outcome is a **bicycle-equity index** for each place of living which can identify whether specific neighbourhoods or social groups benefit more than others from existing cycling infrastructure. Find out <a href="https://laetitiaadam.github.io/bachelorthesis/">more.</a> 
 
 During my bachelor’s degree, I studied for a year at **Universidad de Cantabria** in Santander, Spain, where I completed courses in GIS. This allowed me to combine my **sociological perspective as an urban planner** with skills in **geospatial technologies**. Work experiences in the field of transport system planning were valuable opportunities for applying my skills. Next to my position as research assistant at the Chair for Transport System Planning, I completed an **internship at Planungsgemeinschaft Verkehr PGV-Alrutz in Hanover, Germany**. The office is involved in cycling concepts for cities and municipalities promoting environmentally friendly, socially acceptable and safe cycling. 
 
