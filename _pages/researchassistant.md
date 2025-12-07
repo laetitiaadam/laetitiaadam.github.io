@@ -9,9 +9,9 @@ permalink: /researchassistant/
 
 From August 1st 2024 until July 30th 2025, I have been working as a research assistant at the Chair for Transport System Planning at Bauhaus-University Weimar. I have participated in two research projects for 20 hours per week.
 
-INMEA: This project, funded by the German Federal Ministry of Education and Research and the European Union, focuses on applying machine learning methods for predicting and evaluating urban air quality. The study area is Erfurt, Thuringia.
+INMEA: This project, funded by the German Federal Ministry of Education and Research and the European Union, focuses on applying machine learning methods for predicting and evaluating urban air quality. The study area is Erfurt, Thuringia. For more information visit: <a href="https://www.uni-weimar.de/de/bau-und-umwelt/institute/ism/forschung/laufende-projekte/inmea/">inmea</a>
 
-MOVEWELL: This project aims to enhance mobility in rural Thuringia by developing demand-oriented, sustainable public transport solutions. The project is also funded by the German Federal Ministry of Education and Research.
+MOVEWELL: This project aims to enhance mobility in rural Thuringia by developing demand-oriented, sustainable public transport solutions. The project is also funded by the German Federal Ministry of Education and Research. For more information visit: <a href="https://www.mobilitaet-thueringen.de/movewell/">movewell</a>
 
 Coming from a background of urban studies and wanting to pursue a master in geoinformatics, I viewed this job as a great preparation for deepening my skills in geospatial technologies.
 
