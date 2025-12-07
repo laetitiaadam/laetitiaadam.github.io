@@ -17,6 +17,12 @@ feature_row:
     url: "/wandelkarte/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
+  - image_path: /assets/images/workbw.png
+    title: "Research Assistant"
+    alt: "Research Assistant"
+    url: "/researchassistant/"
+    btn_class: "btn--primary"
+    btn_label: "Learn more"
 
        
 ---
