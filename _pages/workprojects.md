@@ -5,10 +5,10 @@ layout: splash
 author_profile: true
 
 feature_row:
-  - image_path: /assets/images/AudioguideOverview.png
-    title: "Audioguide Wennigsen"
-    alt: "Audioguide Wennigsen"
-    url: "/audioguide/"
+  - image_path: /assets/images/proximityanalysis_webimage.png
+    title: "Research Assistance at the Chair for Transport System Planning"
+    alt: "Research Assistance at the Chair for Transport System Planning"
+    url: "/researchassistant/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
   - image_path: /assets/images/wandelkarte_digital.png
@@ -17,10 +17,10 @@ feature_row:
     url: "/wandelkarte/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
-  - image_path: /assets/images/workbw.png
-    title: "Research Assistant"
-    alt: "Research Assistant"
-    url: "/researchassistant/"
+  - image_path: /assets/images/AudioguideOverview.png
+    title: "Audioguide Wennigsen"
+    alt: "Audioguide Wennigsen"
+    url: "/audioguide/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
 
