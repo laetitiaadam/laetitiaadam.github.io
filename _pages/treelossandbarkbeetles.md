@@ -15,26 +15,11 @@ As part of my class in *Advanced Cartography* we dealt with the Sustainable Deve
 
 Take look at my story map to learn more about this tiny insect and its far-reaching consequences.
 
-<div class="storymap-container">
-  <iframe
-    src="https://storymaps.arcgis.com/stories/668a9fb77fc541b18c3a92bca6b9efb6"
-    frameborder="0"
-    allowfullscreen
-    allow="geolocation">
-  </iframe>
-</div>
+<iframe width="950" height="600" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://storymaps.arcgis.com/stories/668a9fb77fc541b18c3a92bca6b9efb6"></iframe>
 
 Results are also published in this web map created with Leaflet.
 
-<div class="map-preview-16x9">
-  <iframe
-    src="https://laetitiaadam.github.io/Leaflet_Map_BarkBeetles/"
-    frameborder="0"
-    loading="lazy"
-    allowfullscreen>
-  </iframe>
-</div>
+<iframe width="950" height="600" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://laetitiaadam.github.io/Leaflet_Map_BarkBeetles/"></iframe>
 
-[Open map in fullscreen](https://laetitiaadam.github.io/Leaflet_Map_BarkBeetles/)
 
 ---
