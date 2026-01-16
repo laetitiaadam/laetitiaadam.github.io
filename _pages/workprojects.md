@@ -6,8 +6,8 @@ author_profile: true
 
 feature_row:
   - image_path: /assets/images/aq_webimage.jpg
-    title: "Research Assistance at the Chair for Transport System Planning"
-    alt: "Research Assistance at the Chair for Transport System Planning"
+    title: "Modelling Air Quality"
+    alt: "Modelling Air Quality"
     url: "/researchassistant/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
