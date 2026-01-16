@@ -23,7 +23,7 @@ The methodology as well as my discussion are presented on the poster below. I am
 
 A short paper version of my bachelor thesis can be read here:
 
-<iframe src="https://drive.google.com/file/d/1iXQ-I3VEI1M5bs9A7dm_FB_Vzx--jrmC/preview" width="640" height="480" allow="autoplay"></iframe>
+<iframe src="https://drive.google.com/file/d/1iXQ-I3VEI1M5bs9A7dm_FB_Vzx--jrmC/preview" width="640" height="900" allow="autoplay"></iframe>
 
 ---
 
