@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: default
 title: Under the Bark
 permalink: /treelossandbarkbeetles/
 classes: wide
