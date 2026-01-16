@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: single
 title: Under the Bark
 permalink: /treelossandbarkbeetles/
 classes: wide
@@ -15,7 +15,7 @@ As part of my class in *Advanced Cartography* we dealt with the Sustainable Deve
 
 Take look at my story map to learn more about this tiny insect and its far-reaching consequences.
 
-<iframe width="950" height="600" frameborder="0" scrolling="yes" marginheight="0" marginwidth="0" src="https://storymaps.arcgis.com/stories/668a9fb77fc541b18c3a92bca6b9efb6"></iframe>
+<iframe width="1250" height="600" frameborder="0" scrolling="yes" marginheight="0" marginwidth="0" src="https://storymaps.arcgis.com/stories/668a9fb77fc541b18c3a92bca6b9efb6"></iframe>
 
 Results are also published in this web map created with Leaflet.
 
