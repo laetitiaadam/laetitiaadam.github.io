@@ -2,6 +2,7 @@
 layout: single
 title: Under the Bark
 permalink: /treelossandbarkbeetles/
+classes: wide
 ---
 
 # Exposing the Hidden Drivers of Tree Decline
