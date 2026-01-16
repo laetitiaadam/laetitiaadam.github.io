@@ -5,7 +5,7 @@ layout: splash
 author_profile: true
 
 feature_row:
-  - image_path: /assets/images/proximityanalysis_webimage.png
+  - image_path: /assets/images/aq_webimage.jpg
     title: "Research Assistance at the Chair for Transport System Planning"
     alt: "Research Assistance at the Chair for Transport System Planning"
     url: "/researchassistant/"
