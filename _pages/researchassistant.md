@@ -19,7 +19,7 @@ In the context of INMEA project I was responsible for **acquiring infrastructure
 
 An exemplary outcome of the pipeline for the city of Erfurt be seen here:
 
-<iframe src="https://drive.google.com/file/d/1UIPIep5Re0NSpGUTgbxkPFiiQvEmOhA5/view" width="640" height="480" allow="autoplay"></iframe>
+<iframe src="https://drive.google.com/file/d/1UIPIep5Re0NSpGUTgbxkPFiiQvEmOhA5/preview" width="640" height="480" allow="autoplay"></iframe>
 
 
 Next to the data analysis, I was responsible for a broad **literature review.** On the one hand, this included literature on emission sources impacting air quality and meteorological factors influencing distribution patterns. On the other hand, papers considering machine learning approaches to better predict air quality have been taken into account. On a regular basis my colleague and me revised and discussed selected literature to build connections to our own research project. This created a helpful knowledge to start summarizing and publishing our own results. Since INMEA Project does not only consist of the work of my colleague and me, we had monthly meetings with all contributors. This included seven researchers from Bauhaus-University as well as from University of Schmalkalden. For me it was interesting, to see how long-term projects are organised over several years including financing, cooperation with project partners as well as bringing the final results together.
