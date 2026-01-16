@@ -1,6 +1,6 @@
 ---
 layout: single
-title: Under the Bark:
+title: Under the Bark
 permalink: /treelossandbarkbeetles/
 ---
 
