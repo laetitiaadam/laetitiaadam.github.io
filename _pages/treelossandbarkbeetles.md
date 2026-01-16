@@ -13,7 +13,7 @@ I watched the tree decline at *Harz Nationalpark* and *Forest of Thuringia* over
 
 As part of my class in *Advanced Cartography* we dealt with the Sustainable Development Goals by the United Nations. Goal 15.2 addresses the protection of healthy forests. This was my motivation to further analyse the impact of bark beetle infestation on our forests.
 
-Take look at my story map to learn more about this tiny insect and its far-reaching consequences.
+Take look at my story map to learn more about this tiny insect and its far-reaching consequences. For best viewing experience open the story map in a <a href="https://storymaps.arcgis.com/stories/668a9fb77fc541b18c3a92bca6b9efb6">new tab.</a>
 
 <iframe width="950" height="536" frameborder="0" scrolling="yes" marginheight="0" marginwidth="0" src="https://storymaps.arcgis.com/stories/668a9fb77fc541b18c3a92bca6b9efb6"></iframe>
 
