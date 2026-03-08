@@ -21,7 +21,7 @@ Take look at the story map to learn more. For best viewing experience open the s
 </a>.
 
 
-<iframe width="950" height="536" frameborder="0" scrolling="yes" marginheight="0" marginwidth="0" src="https://storymaps.arcgis.com/stories/695174beadea485f9336976b88147f97"></iframe>
+<iframe width="950" height="536" frameborder="0" scrolling="yes" marginheight="0" marginwidth="0" src="https://storymaps.arcgis.com/stories/f00fb806db574220bfaf1b4c4e53c97b"></iframe>
 <br />
 A printed paper map version complements the interactive story map. While the digital map has a slider function to see the before/after state of the glacier. The printed version comes with a transparent print of the different glacier outlines which can be overlayed. A quiz keeps the student´s attention and ensures high learning outcomes.   
 
@@ -33,7 +33,7 @@ A printed paper map version complements the interactive story map. While the dig
 An additional story map gives insight into the data preprocessing, target group specific decisions and design choices.
 <br />
 <br />
-<iframe width="950" height="536" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://laetitiaadam.github.io/Leaflet_Map_BarkBeetles/](https://storymaps.arcgis.com/stories/695174beadea485f9336976b88147f97"></iframe>
+<iframe width="950" height="536" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://storymaps.arcgis.com/stories/695174beadea485f9336976b88147f97"></iframe>
 
 
 ---
