@@ -21,7 +21,7 @@ Take look at my story map to learn more about this tiny insect and its far-reach
 </a>.
 
 
-<iframe width="950" height="536" frameborder="0" scrolling="yes" marginheight="0" marginwidth="0" src="https://storymaps.arcgis.com/stories/695174beadea485f9336976b88147f97"></iframe>
+<iframe width="950" height="536" frameborder="0" scrolling="yes" marginheight="0" marginwidth="0" src="https://storymaps.arcgis.com/stories/668a9fb77fc541b18c3a92bca6b9efb6"></iframe>
 
 Results are also published in this web map created with Leaflet.
 
