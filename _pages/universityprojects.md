@@ -23,6 +23,12 @@ feature_row:
     url: "/bachelorthesis/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
+  - image_path: /assets/images/städtebau_intro.jpg
+    title: "Städtebau Entwurf Chemnitz"
+    alt: "Städtebau Entwurf Chemnitz"
+    url: "/städtebau/"
+    btn_class: "btn--primary"
+    btn_label: "Learn more"
 
        
 ---
