@@ -36,7 +36,7 @@ Das Transportmittel kann in der Auswahl angewählt werden. <br>
 
 *User interface des Nahversorgungs Tools*<br>
 
-![nahversorgung](/assets/images/nahversorgungs_map.png)
+![nahversorgung](/assets/images/nahversorgung_map.png)
 
 *Isochrone des Nahversorgungs Tools werden für jeden Zentroid des Hexagongitters berechnet*<br>
 
