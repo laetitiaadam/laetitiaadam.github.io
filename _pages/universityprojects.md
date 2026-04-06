@@ -4,7 +4,7 @@ layout: splash
 permalink: /universityprojects/
 author_profile: true
 
-feature_row_1:
+feature_row_2:
   - image_path: /assets/images/glacierretreat.png
     title: "Glacier Retreat"
     alt: "Glacier Retreat"
@@ -18,7 +18,7 @@ feature_row_1:
     btn_class: "btn--primary"
     btn_label: "Learn more"
 
-feature_row_2:
+feature_row_1:
   - image_path: /assets/images/BA_intro.jpg
     title: "Mapping Bicycle Equity"
     alt: "Mapping Bicycle Equity"
@@ -35,5 +35,5 @@ feature_row_2:
        
 ---
 
-{% include feature_row id="feature_row_1" %}
 {% include feature_row id="feature_row_2" %}
+{% include feature_row id="feature_row_1" %}
