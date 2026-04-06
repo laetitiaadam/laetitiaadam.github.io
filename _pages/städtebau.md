@@ -46,7 +46,7 @@ Zuletzt veranschaulicht das Holzmodell eine 3D Ansicht des Entwurfs. <br>
 *Modell des Entwurfsgebiets (Eigene Darstellung)*
 
 <br>
-Hinweis: Auf dieser Seite werden nur Darstellungen gezeigt, die ich selber gezeichnet habe. Da der Entwurf gemeinsam mit zwei Kommiliton*innen erarbeitet wurde, werden weitere Pläne meiner Kommiliton*innen nicht gezeigt.
+Hinweis: Auf dieser Seite werden nur Darstellungen gezeigt, die ich selber gezeichnet habe. Da der Entwurf gemeinsam mit zwei KommilitonInnen erarbeitet wurde, werden weitere Pläne meiner KommilitonInnen nicht gezeigt.
 <br>
 
 ---
