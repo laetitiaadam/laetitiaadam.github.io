@@ -9,7 +9,7 @@ permalink: /erreichbarkeitsanalyse/
 Wie viele Supermärkte sind innerhalb von 10 Gehminuten zu erreichen? Was ist die schnellste Route zur Bushaltestelle? Das sind häufige Fragen, um die Erreichbarkeit von Quartieren zu analysieren.
 Doch wie berechne ich die Ergebnisse nicht nur für ein Haus, sondern für ein ganzes Quartier? Dafür habe ich mithilfe der QGIS Modellierung eine Toolbox aus drei Tools gebaut. Getestet wird die Toolbox aktuell von der Stadt Aachen.<br>
 
-## Tool 1 zur Routenberechnung <br>
+## Tool 1 zur Routenberechnung
 
 Dieses Tool berechnet die Routen von allen Punkten der Origin-Eingabe zu allen Punkten der Destination-Eingabe. 
 Die Ausgabe umfasst für jedes Origin-Destination-Paar eine Route für jedes Transportmittel (Auto, Fahrrad, zu Fuß) inklusive der Reisezeit und Distanz. 
@@ -25,7 +25,7 @@ Das Ergebnis zeigt alle Routen von allen Startpunkten zu allen Zielorten. In der
 
 *Ausgabe des Routing Tools*<br>
 
-## Tool 2 zur Analyse der Nahversorgung <br>
+## Tool 2 zur Analyse der Nahversorgung
 
 Dieses Tool legt ein Hexagongitter über die Gebäude im Untersuchungsgebiet. 
 Anschließend werden von allen Zentroiden der Hexagone die Reisezeitisochrone in 5 min, 10 min und 15 min Intervallen berechnet und ausgegeben. 
@@ -46,7 +46,7 @@ Zudem wird das Heaxgongitter ausgeben, dass eine flächendeckende Abfrage nach d
 
 *Abfrage des Hexagongitters erlaubt direkte Einsicht der Ergebnisse*<br>
 
-## Tool 3 Shortest & Fastest Path Finder <br>
+## Tool 3 Shortest & Fastest Path Finder
 
 Dieses Tool legt ein Hexagongitter über die Gebäude im Untersuchungsgebiet. 
 Anschließend werden von allen Zentroiden der Hexagone die kürzeste sowie schnellste Route zum nächstgelegenen Zielort berechnet und ausgegeben. 
