@@ -26,7 +26,7 @@ Some of my projects are presented on this website. My full CV is below.
 
 - **M.Sc. Applied Geoinformatics**  
   University of Salzburg, Austria  
-  Starting October 2025
+  October 2025 until now
 
 - **B.Sc. Urban Studies**  
   Bauhaus-University Weimar, Germany (final grade 1.11)  
@@ -42,6 +42,11 @@ Some of my projects are presented on this website. My full CV is below.
 ## Work Experience
 
 - **Research Assistant**  
+  Department for Geoinformatics, Z_GIS, Paris-Lodron University Salzburg 
+  March 2026 until now (10 h/week)  
+  3D-animation and terrain analysis of MTB-racetrack, mapping of Dachstein Glacier.
+  
+- **Research Assistant**  
   Chair for Transport System Planning, Bauhaus-University Weimar  
   August 2024 – July 2025 (20 h/week)  
   Analysis of traffic data and meteorological data for urban air quality prediction.
@@ -53,7 +58,7 @@ Some of my projects are presented on this website. My full CV is below.
 
 - **Internship**  
   PGV-Alrutz, Hanover, Germany  
-  June 2023 – September 2023  
+  June 2023 – September 2023 (35 h/week) 
   Cycling network planning, QGIS data analysis, and field research.
 
 ---
