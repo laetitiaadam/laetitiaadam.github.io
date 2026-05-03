@@ -42,7 +42,7 @@ Some of my projects are presented on this website. My full CV is below.
 ## Work Experience
 
 - **Research Assistant**  
-  Department for Geoinformatics, Z_GIS, Paris-Lodron University Salzburg 
+  Department for Geoinformatics, Z_GIS, Paris-Lodron University Salzburg <br>
   March 2026 until now (10 h/week)  
   3D-animation and terrain analysis of MTB-racetrack, mapping of Dachstein Glacier.
   
