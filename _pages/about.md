@@ -89,8 +89,8 @@ Some of my projects are presented on this website. My full CV is below.
 ## Skills
 
 - QGIS: very good  
-- ArcGIS Pro / ArcMap: good  
-- GeoPandas / Python: basic  
+- ArcGIS Pro / ArcGISOnline: very good  
+- GeoPandas / Python: good  
 - Java: basic  
 - Microsoft Office / PowerPoint / Excel: very good  
 - Adobe InDesign / Illustrator: very good  
