@@ -58,7 +58,7 @@ Some of my projects are presented on this website. My full CV is below.
 
 - **Internship**  
   PGV-Alrutz, Hanover, Germany  
-  June 2023 – September 2023 (35 h/week) 
+  June 2023 – September 2023 (35 h/week) <br>
   Cycling network planning, QGIS data analysis, and field research.
 
 ---
