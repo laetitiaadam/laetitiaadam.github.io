@@ -15,7 +15,7 @@ The methodology as well as my discussion are presented on the poster below. I am
 
 ![AGIT POSTER AWARD](/assets/images/AGIT_PosterAward.jpg)
 
-*Poster Award Ceremony at AGIT Conference 2025*
+*Poster Award Ceremony at AGIT Conference 2025 (https://agit.at/de/poster-galerie/)*
 
 
 <iframe src="https://drive.google.com/file/d/1NAou9NxHGv-TLkGjZeMNAG4-eg1vRQE1/preview" width="640" height="480" allow="autoplay"></iframe>
