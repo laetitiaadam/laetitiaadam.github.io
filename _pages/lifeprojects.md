@@ -6,7 +6,7 @@ author_profile: true
 
 feature_row_2:
   - image_path: /assets/images/feuerwacheintro.jpg
-    title: "Wohnprojeckt Alte Feuerwache"
+    title: "Wohnprojekt Alte Feuerwache"
     alt: "Wohnprojeckt Alte Feuerwache"
     url: "/wohnprojekt/"
     btn_class: "btn--primary"
