@@ -40,7 +40,7 @@ Denn am nächsten Abend konnten wir kurz vor dem Präbichl Pass in der Abendsonn
 Auf der südlichen Seite der Alpen lassen wir den Regen endlich hinter uns, radeln an unzähligen Kürbisfeldern der Steiermark vorbei, schlängeln uns an der Save entlang und sehen plötzlich am Horizont zum ersten Mal das Mittelmeer. Und langsam realisiere ich: Ich bin mit dem Fahrrad bis ans Mittelmeer gefahren. 
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
-  <img style="max-width: 40%; margin-right: 20px;" src="/assets/images/weimarmittelmeer3.jpg" alt="Ankunft am Meer">
+  <img style="max-width: 50%; margin-right: 20px;" src="/assets/images/weimarmittelmeer3.jpg" alt="Ankunft am Meer">
   <div>
     <h3 style="margin-top: 0;">Unsere Route in Zahlen</h3>
     <ul style="list-style-type: none; padding-left: 0;">
