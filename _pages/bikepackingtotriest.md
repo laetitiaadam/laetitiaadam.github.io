@@ -6,7 +6,7 @@ permalink: /bikepackingtotriest/
 
 # Wie zwei Geschwister auf zwei Rädern Europa durchqueren
 
-*Sommer 2021* <br>
+*Sommer 2021* <br>  <br>
 Das Semester neigt sich dem Ende und mein Uni-Fahrrad verwandelt sich langsam in ein Reiserad: 
 Eine Klick-Fix-Halterung von Ebay-Kleinanzeigen für Papas alte Lenkertasche, ein mit Kabelbindern befestigter Trinkflaschenhalter und am Gepäckträger zwei noch glänzende Fahrradtaschen. Ich war noch nie länger als zwei Tage mit dem Rad unterwegs. Aber eigentlich ist es ja nichts anderes als eine Hüttentour: Möglichst wenig einpacken und trotzdem für jedes Wetter vorbereitet sein. 
 So sind ungefähr meine Vorstellungen als ich meinem Bruder eine Nachricht schreibe und frage, ob wir Regenponchos einpacken sollen. <br> <br>
@@ -37,22 +37,27 @@ Denn am nächsten Abend konnten wir kurz vor dem Präbichl Pass in der Abendsonn
 
 *Einsame Bergpässe: Unterwegs auf Sloweniens Fernradwegen*
 
+Auf der südlichen Seite der Alpen lassen wir den Regen endlich hinter uns, radeln an unzähligen Kürbisfeldern der Steiermark vorbei, schlängeln uns an der Save entlang und sehen plötzlich am Horizont zum ersten Mal das Mittelmeer. Und langsam realisiere ich: Ich bin mit dem Fahrrad bis ans Mittelmeer gefahren. 
+
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
   <img style="max-width: 40%; margin-right: 20px;" src="/assets/images/weimarmittelmeer3.jpg" alt="Ankunft am Meer">
-  <p>## Unsere Route in Zahlen <br>
-1.457 Kilometer<br>
-17.600 Höhenmeter<br>
-4 Länder<br>
-19 Radfahrtage<br>
-6 Pausentage<br>
-2 platte Reifen<br>
-1 gerissener Schaltzug<br>
-1 loses Tretlager<br>
-3 Gläser Erdnussmuß<br>
-5 Packungen Linsenpasta<br>
-6 Packungen Haferflocken</p>
+  <div>
+    <h3 style="margin-top: 0;">Unsere Route in Zahlen</h3>
+    <ul style="list-style-type: none; padding-left: 0;">
+      <li>1.457 Kilometer</li>
+      <li>17.600 Höhenmeter</li>
+      <li>4 Länder</li>
+      <li>19 Radfahrtage</li>
+      <li>6 Pausentage</li>
+      <li>2 platte Reifen</li>
+      <li>1 gerissener Schaltzug</li>
+      <li>1 loses Tretlager</li>
+      <li>3 Gläser Erdnussmuß</li>
+      <li>5 Packungen Linsenpasta</li>
+      <li>6 Packungen Haferflocken</li>
+    </ul>
+  </div>
 </div>
 
 
-*Die letzte steinige Abfahrt Richtung Mittelmeer*
 ---
