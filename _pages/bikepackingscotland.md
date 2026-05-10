@@ -4,15 +4,14 @@ title: Zum nördlichtesten Punkt Schottlands
 permalink: /bikepackingscotland/
 ---
 
-# Solo-bikepacking von Hannover nach John O'Groats
+# Solo-bikepacking <br>von Hannover nach John O'Groats
 
-*Sommer 2024* <br>  <br>
-
+*Sommer 2024* <br> <br>
 Zwei große Radreisen habe ich mit meinem Bruder erlebt: Gemeinsam über die Alpen und mitten durch die Berge des Balkan. 
 Dann schenkte er mir das Buch "Revolutions: How Women Changed the World on Two Wheels". Eine atemberaubende Erzählung wahrer Begebenheiten, wie sich Frauen* einen Platz im Radsport erkämpfen. 
 Und so hat mein Bruder seine kleine Schwester auf ihr erstes Solo-Bikepacking Abenteuer vorbereitet. <br>
 Der Traum, Groß Britannien mit dem Rad zu durchqueren, schwirrte schon lange in meinem Kopf. Die Erzählung, wie die ersten Frauen die End-to-End Strecke von der Südwestlichsten Spitze Englands zur nördlichsten Spitze Schottlands gemeistert haben, war also nur noch ein letzter Anschub.
-Meine Route führte allerdings keines wegs auf der kürzesten Strecke von damals entlang, sondern startete in meiner Heimat nahe Hannover. Von dort führte mich mein Weg an die Niederländische Küste und Richtung Dartmoor. Der Hauptgrund der Reise war, Freunde im Dartmoor zu besuchen. 
+Meine Route führte allerdings keines wegs auf der kürzesten Strecke von damals entlang, sondern verbindete verschiedene National Parks miteinander. Der wohl für mich bedeutsamste: Dartmoor National Park, der für ein Jahr mein zu Hause gewesen ist und die Rückkehr zu vielen Freunden ermöglichte. 
 
 ![Route](/assets/images/hannoverscotlandintro.png)
 
@@ -20,17 +19,18 @@ Meine Route führte allerdings keines wegs auf der kürzesten Strecke von damals
 
 ## Vorbereitung
 Meine Bachelorarbeit war eingereicht, meine Freunde waren noch fleißig am schreiben. Ich leistete ihnen Gesellschaft im Arbeitsraum, allerdings nicht mehr zum arbeiten, sondern zum Routeplanen. 
-Meine erste Solo-Radreise wollte ich planen, sehr gut planen. Jeden Kilometer fuhr ich auf der OpenRouteService Fahrradkarte ab, jede Etappe plante ich mit Kilometern, Höhenmetern und Zeltplätzen in einer langen Tabelle. Zur Belohnung für meine Bachelorarbeit kaufte ich mir ein Fahrradcomputer. Mein Garmin wurde schnell mein treuster Begleiter und teilte zuverlässig meinen Livestandort mit meiner Familie - ein kleines Gefühl von Sicherheit.
+Meine erste Solo-Radreise wollte ich gut vorbereiten. Jeden Kilometer fuhr ich mit der Maus auf der OpenRouteService Fahrradkarte ab, jede Etappe plante ich mit Kilometern, Höhenmetern und Zeltplätzen in einer langen Tabelle. Zur Belohnung für meine Bachelorarbeit kaufte ich mir ein Fahrradcomputer. Mein Garmin wurde schnell mein treuster Begleiter und teilte zuverlässig meinen Livestandort mit meiner Familie - ein kleines Gefühl von Sicherheit.
 
 ![Abreise](/assets/images/abreisejog.jpg)
 
 *Das wohl obligatorische vor jeder Radreise*
 
-
+## Aufbruch
+Ich bin noch nie länger als ein Tag alleine gereist. Jetzt standen mir 6 Wochen bevor - nur mein Fahrrad Calypso und ich.
 
 ![Mittellandkanal](/assets/images/mittellandkanal.jpg)
 
-*Schotterwege am Wasser prägen meine Reise: Vorbei an Transportschiffen auf dem Mittellandkanal und den Hausbooten auf den unzähligen Kanälen Englands *
+*Schotterwege am Wasser prägen meine Reise: Vorbei an Transportschiffen auf dem Mittellandkanal und an Hausbooten auf den unzähligen Kanälen Englands*
 
 
 ![LakeDistrict](/assets/images/lakedistrict.jpg)
