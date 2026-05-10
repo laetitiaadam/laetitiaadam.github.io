@@ -5,4 +5,5 @@ main:
     url: /universityprojects/
   - title: "Work Projects"
     url: /workprojects/
-  
+  - title: "Life Projects"
+    url: /lifeprojects/
