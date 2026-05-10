@@ -23,7 +23,7 @@ Meine erste Solo-Radreise wollte ich gut vorbereiten. Jeden Kilometer fuhr ich m
 
 ![Abreise](/assets/images/abreisejog.jpg)
 
-*Das wohl obligatorische vor jeder Radreise*
+*Das obligatorische Foto vor jeder Radreise*
 
 ## Aufbruch
 Ich bin noch nie länger als ein Tag alleine gereist. Jetzt standen mir 6 Wochen bevor - nur mein Fahrrad Calypso und ich.
