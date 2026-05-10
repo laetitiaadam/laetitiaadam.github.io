@@ -10,13 +10,6 @@ header:
       url: "/about/"
 excerpt: >
   My name is Laetitia Adam. I am a master's student in Applied Geoinformatics with a passion for city planning and mobility.
-feature_row_3:
-  - image_path: /assets/images/weimarmittelmeerintro.jpg
-    alt: "Life Projects"
-    title: "Life Projects"
-    url: "/lifeprojects/"
-    btn_class: "btn--primary"
-    btn_label: "Learn more"
 feature_row_2:
   - image_path: /assets/images/unibw.png
     alt: "University Projects"
@@ -24,17 +17,21 @@ feature_row_2:
     url: "/universityprojects/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
-feature_row_1:
   - image_path: /assets/images/workbw.png
     alt: "Work Projects"
     title: "Work Projects"
     url: "/workprojects/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
+feature_row_1:
+  - image_path: /assets/images/weimarmittelmeerintro.jpg
+    alt: "Life Projects"
+    title: "Life Projects"
+    url: "/lifeprojects/"
+    btn_class: "btn--primary"
+    btn_label: "Learn more"
        
 ---
 
-
-{% include feature_row id="feature_row_3" %}
 {% include feature_row id="feature_row_2" %}
 {% include feature_row id="feature_row_1" %}
