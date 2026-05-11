@@ -9,7 +9,7 @@ permalink: /bikepackingscotland/
 *Sommer 2024* <br> <br>
 Zwei große Radreisen habe ich mit meinem Bruder erlebt: Gemeinsam über die Alpen und mitten durch die Berge des Balkan. 
 Dann schenkte er mir das Buch "Revolutions: How Women Changed the World on Two Wheels". Eine atemberaubende Erzählung wahrer Begebenheiten, wie sich Frauen* einen Platz im Radsport erkämpfen. 
-Und so hat mein Bruder seine kleine Schwester auf ihr erstes Solo-Bikepacking Abenteuer vorbereitet. <br>
+Und so hat mein Bruder seine kleine Schwester auf ihr erstes Solo-Bikepacking Abenteuer vorbereitet. <br> <br>
 Der Traum, Groß Britannien mit dem Rad zu durchqueren, schwirrte schon lange in meinem Kopf. Die Erzählung, wie die ersten Frauen die End-to-End Strecke von der Südwestlichsten Spitze Englands zur nördlichsten Spitze Schottlands gemeistert haben, war also nur noch ein letzter Anschub.
 Meine Route führte allerdings keines wegs auf der kürzesten Strecke von damals entlang, sondern verbindete verschiedene National Parks miteinander. Der wohl für mich bedeutsamste: Dartmoor National Park, der für ein Jahr mein zu Hause gewesen ist und die Rückkehr zu vielen Freunden ermöglichte. 
 
