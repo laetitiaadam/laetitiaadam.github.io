@@ -7,22 +7,16 @@ permalink: /balkanbybike/
 # Von Klagenfurt bis Korfu
 
 *Sommer 2023* <br> <br>
-text einfügen <br>
+Text folgt bald :) <br>
 
 ![Route](/assets/images/mapbalkanbybike.png) <br>
 *Unsere Route: 1.648 km (Basemap: OpenStreetMapContributors)*
 ![sandpyramiden](/assets/images/sandpyramiden.JPG)
-*Sandpyramiden in Bosnien Herzegowina*
-![montenegro](/assets/images/montenegro.JPG)
-*Hochebene in Montenegro*
-![balkanbybikeintro](/assets/images/balkanbybikeintro.jpg)
-*Aussichtsreiche Bergstraße durch den Piva Canyon*
-![albanien](/assets/images/albanien.jpg)
-*Unerwartete Höhenmeter entlang Albaniens Küste*
+*Sandpyramiden in Bosnien Herzegowina* <br>
 
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
-  <img style="max-width: 50%; margin-right: 20px;" src="/assets/images/ankunftkorfu.JPG" alt="Ankunft am Meer">
+  <img style="max-width: 50%; margin-right: 20px;" src="/assets/images/montenegro.JPG" alt="montenegro">
   <div>
     <h3 style="margin-top: 0;">Unsere Route in Zahlen</h3>
     <ul style="list-style-type: none; padding-left: 0;">
@@ -38,4 +32,16 @@ text einfügen <br>
     </ul>
   </div>
 </div>
+
+
+![balkanbybikeintro](/assets/images/balkanbybikeintro.jpg)
+*Aussichtsreiche Bergstraße durch den Piva Canyon*
+![albanien](/assets/images/albanien.jpg)
+*Unerwartete Höhenmeter entlang Albaniens Küste*
+![ankunft](/assets/images/ankunftkorfu.JPG)
+*Ein großes Lächeln bei der Ankunft in Griechenland*
+
+... noch ein paar Pausentage auf der Insel Korfu bevor es auf eine lange Rückreise geht. Mit der Fähre von Igoumenitsa nach Venedig und von Venedig mit dem Zug nach Deutschland.
+
+
 
