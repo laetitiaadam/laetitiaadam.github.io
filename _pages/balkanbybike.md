@@ -9,7 +9,7 @@ permalink: /balkanbybike/
 *Sommer 2023* <br> <br>
 text einfügen <br>
 
-![Route](/assets/images/mapbalkanbybike.png)
+![Route](/assets/images/mapbalkanbybike.png) <br>
 *Unsere Route: 1.648 km (Basemap: OpenStreetMapContributors)*
 ![sandpyramiden](/assets/images/sandpyramiden.JPG)
 *Sandpyramiden in Bosnien Herzegowina*
@@ -26,17 +26,15 @@ text einfügen <br>
   <div>
     <h3 style="margin-top: 0;">Unsere Route in Zahlen</h3>
     <ul style="list-style-type: none; padding-left: 0;">
-      <li>1.457 Kilometer</li>
-      <li>17.600 Höhenmeter</li>
-      <li>4 Länder</li>
-      <li>19 Radfahrtage</li>
-      <li>6 Pausentage</li>
-      <li>2 platte Reifen</li>
-      <li>1 gerissener Schaltzug</li>
-      <li>1 loses Tretlager</li>
-      <li>3 Gläser Erdnussmuß</li>
-      <li>5 Packungen Linsenpasta</li>
-      <li>6 Packungen Haferflocken</li>
+      <li>1.648 Kilometer</li>
+      <li>21.000 Höhenmeter</li>
+      <li>7 Länder</li>
+      <li>21 Radfahrtage</li>
+      <li>0 platte Reifen</li>
+      <li>1 gebrochene Achse</li>
+      <li>11 Packungen Haferflocken</li>
+      <li>7 Gläser Ajvar</li>
+      <li>4 Gläser Erdnussmuß</li>
     </ul>
   </div>
 </div>
