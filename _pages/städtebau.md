@@ -13,7 +13,7 @@ Das Entwurfsgebiet in Chemnitz liegt an der Schnittstelle vom Wohnquartier am Br
 
 *Lageplan des Entwurfsgebiets 1:5.000 (Eigene Darstellung)*<br>
 
-Bei einer ersten Ortsbegehung im April 2022 fiel auf, wie fragmentiert das Gebiet ist: Von Süden kommend stechen die Kühltürme und Fernwärmeleitungen der Stadttechnik ins Auge und verleihen, dem Gebiet sein charakteristisches Gesicht. 
+Bei einer ersten Ortsbegehung im April 2022 fiel auf, wie fragmentiert das Gebiet ist: Von Süden kommend, stechen die Kühltürme und Fernwärmeleitungen der Stadttechnik ins Auge und verleihen dem Gebiet sein charakteristisches Gesicht. 
 Unmittelbar daneben prägen zwei Plattenbauten und eine Schule eine Art Wohngebiet. Die angrenzenden Autohäuser und das Gewerbegebiet lassen die Wohnbauten jedoch wie einen Fremdkörper erscheinen. 
 Die Übergänge zwischen diesen diversen Nutzungen sind undefiniert und bleiben genauso ungesehen wie die nicht erschlossene und bisher ungenutzte Fläche im Zentrum des Entwurfsgebiets. Die Leitfrage des Entwurfs lautet: 
 Wie kann dieser Raum gegliedert und neu definiert werden und insbesondere auch zugänglich werden? <br>
@@ -33,7 +33,7 @@ Die Quartiersstraße kennzeichnet sich durch einen Shared Space in der Mitte, de
 Zu beiden Seiten verläuft ein zusätzlicher Fußgänger*innenbereich. 
 Der Shared Space in der Mitte liegt tiefer als der Rest, sodass bei Hochwasser und Starkregenereignissen, die Straße zusätzliche Wasserspeicherkapazitäten schafft. Die Wege im Park dienen vor allem zum Spazierengehen und weniger als Verkehrsader. 
 Gleichzeitig zeigt dieser Schnitt den Übergang der Plattenbauten zum Quartierspark. 
-Ein privater Garten und Hinterhof schaffen die Schnittstelle zum öffentlichen Park. Der Rad- und Fußweg unterhalb der Fernwärme setzt sich aus zwei Fahrradstreifen zusammen, sodass ein zügiges Radfahren in beide Richtungen möglich ist. Parallel dazu an der Uferseite verläuft der Fußweg, der gleichzeitig in den Hang zum Wasser übergeht. Die Hanglage haben wir uns zur Nutze gemacht, um Sitzstufen zu integrieren, die einen Berührungspunkt mit dem Wasser schaffen. Dieses Motiv wiederholt sich am Pleißenbachufer, wo ebenfalls Sitzstufen im Hang einen Ort zum Verweilen schaffen, ohne konsumieren zu müssen.
+Ein privater Garten und Hinterhof schaffen die Schnittstelle zum öffentlichen Park. Der Rad- und Fußweg unterhalb der Fernwärme setzt sich aus zwei Fahrradstreifen zusammen, sodass ein zügiges Radfahren in beide Richtungen möglich ist. Parallel dazu an der Uferseite verläuft der Fußweg, der gleichzeitig in den Hang zum Wasser übergeht. In die Hangneigung werden terrassierte Sitzstufen integriert, die einen Berührungspunkt mit dem Wasser schaffen. Dieses Motiv wiederholt sich am Pleißenbachufer, wo ebenfalls Sitzstufen im Hang einen Ort zum Verweilen schaffen, ohne konsumieren zu müssen.
 
 ![1:200 Plan](/assets/images/schnitte.jpg)
 
@@ -46,7 +46,7 @@ Zuletzt veranschaulicht das Holzmodell eine 3D Ansicht des Entwurfs. <br>
 *Modell des Entwurfsgebiets (Eigene Darstellung)*
 
 <br>
-Hinweis: Auf dieser Seite werden nur Darstellungen gezeigt, die ich selber gezeichnet habe. Da der Entwurf gemeinsam mit zwei KommilitonInnen erarbeitet wurde, werden weitere Pläne meiner KommilitonInnen nicht gezeigt.
+Hinweis: Auf dieser Seite werden nur Darstellungen gezeigt, die ich selbst gezeichnet habe. Da der Entwurf gemeinsam mit zwei KommilitonInnen erarbeitet wurde, werden weitere Pläne meiner KommilitonInnen nicht gezeigt.
 <br>
 
 ---
