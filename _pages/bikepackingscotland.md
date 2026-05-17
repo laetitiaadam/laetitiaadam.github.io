@@ -18,8 +18,8 @@ Meine Route führte allerdings keineswegs auf der kürzesten Strecke von damals 
 *Meine Route: 2.565 km (Basemap: OpenStreetMapContributors)*
 
 ## Vorbereitung
-Meine Bachelorarbeit war eingereicht, meine Freunde waren noch fleißig am schreiben. Ich leistete ihnen Gesellschaft im Arbeitsraum, allerdings nicht mehr zum arbeiten, sondern zum Routeplanen. 
-Meine erste Solo-Radreise wollte ich gut vorbereiten. Jeden Kilometer fuhr ich mit der Maus auf der OpenRouteService Fahrradkarte ab, jede Etappe plante ich mit Kilometern, Höhenmetern und Zeltplätzen in einer langen Tabelle. Zur Belohnung für meine Bachelorarbeit kaufte ich mir ein Fahrradcomputer. Mein Garmin wurde schnell mein treuster Begleiter und teilte zuverlässig meinen Livestandort mit meiner Familie - ein kleines Gefühl von Sicherheit.
+Meine Bachelorarbeit war eingereicht, meine Freunde waren noch fleißig am dabei. Ich leistete ihnen Gesellschaft im Arbeitsraum, allerdings nicht mehr zum arbeiten, sondern zum Routeplanen. 
+Meine erste Solo-Radreise wollte ich gut vorbereiten. Jeden Kilometer fuhr ich mit der Maus auf der OpenRouteService Fahrradkarte ab, jede Etappe plante ich mit Kilometern, Höhenmetern und Zeltplätzen in einer langen Tabelle. Zur Belohnung für meine Bachelorarbeit kaufte ich mir einen Fahrradcomputer. Mein Garmin wurde schnell mein treuster Begleiter und teilte zuverlässig meinen Livestandort mit meiner Familie - ein kleines Gefühl von Sicherheit.
 
 ![Abreise](/assets/images/abreisejog.jpg)
 
