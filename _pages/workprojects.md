@@ -11,6 +11,12 @@ feature_row_3:
     url: "/racetrack/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
+  - image_path: /assets/images/fabricmaps_intro.png
+    title: "Field Work Mapping"
+    alt: "Field Work Mapping"
+    url: "/fabricmaps/"
+    btn_class: "btn--primary"
+    btn_label: "Learn more"
 feature_row_2:
   - image_path: /assets/images/aq_webimage.jpg
     title: "Modelling Air Quality"
