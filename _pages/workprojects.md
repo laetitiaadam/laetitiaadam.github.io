@@ -4,6 +4,13 @@ permalink: /workprojects/
 layout: splash
 author_profile: true
 
+feature_row_3:
+  - image_path: /assets/images/racetrack_intro.png
+    title: "3D Racetrack Visualisation"
+    alt: "3D Racetrack Visualisation"
+    url: "/racetrack/"
+    btn_class: "btn--primary"
+    btn_label: "Learn more"
 feature_row_2:
   - image_path: /assets/images/aq_webimage.jpg
     title: "Modelling Air Quality"
