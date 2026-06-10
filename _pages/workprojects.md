@@ -40,7 +40,7 @@ feature_row_1:
 
        
 ---
-
+{% include feature_row id="feature_row_3" %}
 {% include feature_row id="feature_row_2" %}
 {% include feature_row id="feature_row_1" %}
 
