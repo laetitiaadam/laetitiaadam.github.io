@@ -15,7 +15,7 @@ feature_row_3:
   - image_path: /assets/images/pm_intro.png
     title: "Project Management"
     alt: "Project Management"
-    url: "/Project Management/"
+    url: "/projectmanagement/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
     
