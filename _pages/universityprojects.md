@@ -21,7 +21,7 @@ feature_row_3:
     
 feature_row_2:
   - image_path: /assets/images/glacierretreat.png
-    title: "Glacier Retreat"
+    title: "Visualizing Glacier Retreat at Hohe Tauern"
     alt: "Glacier Retreat"
     url: "/glacierretreat/"
     btn_class: "btn--primary"
