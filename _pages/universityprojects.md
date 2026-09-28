@@ -4,6 +4,21 @@ layout: splash
 permalink: /universityprojects/
 author_profile: true
 
+
+feature_row_3:
+  - image_path: /assets/images/UHI_intro.png
+    title: "Spatial Data Infrastructure on Urban Heat"
+    alt: "SDI on Urban Heat"
+    url: "/spatialdatainfrastructure/"
+    btn_class: "btn--primary"
+    btn_label: "Learn more"
+  - image_path: /assets/images/pm_intro.png
+    title: "Project Management"
+    alt: "Project Management"
+    url: "/Project Management/"
+    btn_class: "btn--primary"
+    btn_label: "Learn more"
+    
 feature_row_2:
   - image_path: /assets/images/glacierretreat.png
     title: "Glacier Retreat"
@@ -35,5 +50,6 @@ feature_row_1:
        
 ---
 
+{% include feature_row id="feature_row_3" %}
 {% include feature_row id="feature_row_2" %}
 {% include feature_row id="feature_row_1" %}
