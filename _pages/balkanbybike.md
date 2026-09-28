@@ -7,7 +7,7 @@ permalink: /balkanbybike/
 # Von Klagenfurt bis Korfu
 
 *Sommer 2023* <br> <br>
-Text folgt bald :) <br>
+Über unzählige Serpentinen starten wir steil ins nächste Radabenteuer - ein Merkmal, dass diese Route dominieren wird: Endlose Anstiege, die mit großartiger Aussicht belohnt werden. Vom Bahnhof in Klagenfurt führt uns eine Passstraße noch am ersten Tag bis über die slovenische Grenze. Von da aus radeln wir durch das bergige Hinterland von Kroatien, Bosnien Herzegowina und Montenegro bis wir schließlich in Albanien die Berge Richtung Mittelmeer verlassen und über dennoch steile Küstenstraßen Griechenland erreichen.  <br>
 
 ![Route](/assets/images/mapbalkanbybike.png) <br>
 *Unsere Route: 1.648 km (Basemap: OpenStreetMapContributors)*
